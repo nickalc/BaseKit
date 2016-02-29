@@ -6,7 +6,7 @@ import com.squareup.okhttp.OkHttpClient;
 import java.util.concurrent.TimeUnit;
 
 /**
- * Created by rogers on 15/10/19.
+ * Created by nick on 15/10/19.
  */
 public class OkHttpInstance {
     public static final MediaType JSON
