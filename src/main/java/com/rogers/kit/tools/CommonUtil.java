@@ -31,7 +31,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * Created by rogers on 2015/10/19.
+ * Created by nick on 2015/10/19.
  */
 public class CommonUtil {
     private static final String TAG = CommonUtil.class.getSimpleName();
