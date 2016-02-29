@@ -1,9 +1,5 @@
 package com.rogers.kit.base;
 
-/**
- * Created by rogers on 15/10/19.
- */
-
 import android.app.Application;
 import android.content.Context;
 import android.content.pm.PackageInfo;
@@ -12,7 +8,7 @@ import android.support.multidex.MultiDex;
 import com.facebook.drawee.backends.pipeline.Fresco;
 
 /**
- * Created by rogers on 15/10/19.
+ * Created by nick on 15/10/19.
  */
 public class BaseApp extends Application {
 
