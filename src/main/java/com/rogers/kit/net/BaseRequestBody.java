@@ -9,7 +9,7 @@ import java.lang.reflect.Type;
 import java.util.HashMap;
 
 /**
- * Created by rogers on 15/10/20.
+ * Created by nick on 15/10/20.
  */
 public class BaseRequestBody {
     private JSONObject object;
