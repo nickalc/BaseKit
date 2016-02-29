@@ -14,7 +14,7 @@ import java.lang.reflect.Type;
 import java.util.HashMap;
 
 /**
- * Created by rogers on 15/10/19.
+ * Created by nick on 15/10/19.
  */
 public class OKHttpRequest {
 
